@@ -42,7 +42,7 @@ This is a Public Demo for Degeneracy. This means that only Corrosion works for i
 # Installation and Setup
 
 ```sh
-$ git clone https://github.com/Degenerate0001/Degeneracy
+$ git clone https://github.com/avinashkulshrestha/Degeneracy
 $ cd Degeneracy
 $ npm install
 $ chmod u+x main.sh
