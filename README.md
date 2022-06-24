@@ -21,9 +21,9 @@ Degeneracy is a functional, free, and easy to use web proxy site made to bypass 
 ## Notice
 This is a Public Demo for Degeneracy. This means that only Corrosion works for it. If you would like to implement Womginx, setup Womginx and point it to a `w` subdomain. Setup for it can be found here: <a href="https://github.com/binary-person/womginx">Womginx</a>
 
-<a href="https://heroku.com/deploy?template=https://github.com/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
-<a href="https://repl.it/github/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
-<a href="https://glitch.com/edit/#!/import/github/Degenerate0001/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
+<a href="https://heroku.com/deploy?template=https://github.com/avinashkulshrestha/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/heroku2.svg"><img></a>
+<a href="https://repl.it/github/avinashkulshrestha/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/replit2.svg"><img></a>
+<a href="https://glitch.com/edit/#!/import/github/avinashkulshrestha/Degeneracy"><img height="30px" src="https://raw.githubusercontent.com/FogNetwork/Tsunami/main/deploy/glitch2.svg"><img></a>
 
 # Table Of Contents
 - [Installation and Setup](#Installation-and-Setup)
@@ -42,7 +42,7 @@ This is a Public Demo for Degeneracy. This means that only Corrosion works for i
 # Installation and Setup
 
 ```sh
-$ git clone https://github.com/avinashkulshrestha/Degeneracy
+$ git clone https://github.com/Degenerate0001/Degeneracy
 $ cd Degeneracy
 $ npm install
 $ chmod u+x main.sh
